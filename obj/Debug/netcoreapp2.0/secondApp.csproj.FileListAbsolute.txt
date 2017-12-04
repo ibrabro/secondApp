@@ -1,0 +1,10 @@
+/home/ibra/projects/dotnet/secondApp/bin/Debug/netcoreapp2.0/secondApp.deps.json
+/home/ibra/projects/dotnet/secondApp/bin/Debug/netcoreapp2.0/secondApp.runtimeconfig.json
+/home/ibra/projects/dotnet/secondApp/bin/Debug/netcoreapp2.0/secondApp.runtimeconfig.dev.json
+/home/ibra/projects/dotnet/secondApp/bin/Debug/netcoreapp2.0/secondApp.dll
+/home/ibra/projects/dotnet/secondApp/bin/Debug/netcoreapp2.0/secondApp.pdb
+/home/ibra/projects/dotnet/secondApp/obj/Debug/netcoreapp2.0/secondApp.csproj.CoreCompileInputs.cache
+/home/ibra/projects/dotnet/secondApp/obj/Debug/netcoreapp2.0/secondApp.AssemblyInfoInputs.cache
+/home/ibra/projects/dotnet/secondApp/obj/Debug/netcoreapp2.0/secondApp.AssemblyInfo.cs
+/home/ibra/projects/dotnet/secondApp/obj/Debug/netcoreapp2.0/secondApp.dll
+/home/ibra/projects/dotnet/secondApp/obj/Debug/netcoreapp2.0/secondApp.pdb
